@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\bin\Release\CapaDato.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\bin\Release\CapaEntidad.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\bin\Release\CapaDato.pdb
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\bin\Release\CapaEntidad.pdb
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\obj\Release\CapaNego.81B9D119.Up2Date
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaNegocio\obj\Release\CapaNegocio.pdb

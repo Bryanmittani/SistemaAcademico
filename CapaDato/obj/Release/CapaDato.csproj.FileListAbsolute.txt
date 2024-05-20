@@ -1,0 +1,6 @@
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaDato\bin\Release\CapaDato.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaDato\bin\Release\CapaDato.pdb
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaDato\obj\Release\CapaDato.pdb

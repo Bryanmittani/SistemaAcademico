@@ -1,0 +1,6 @@
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaEntidad\bin\Release\CapaEntidad.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaEntidad\bin\Release\CapaEntidad.pdb
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.dll
+C:\Users\ASUS\Downloads\SistemaAcademico\CapaEntidad\obj\Release\CapaEntidad.pdb
